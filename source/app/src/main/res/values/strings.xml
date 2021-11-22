@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">OpenTV</string>
+
+    <string name="preference_file_key" translatable="false">io.github.alanrb.opentv.PREFERENCE_FILE_KEY</string>
+
+    <string name="title_trending">Trending</string>
+    <string name="title_popular">Popular</string>
+    <string name="title_recommended">Recommended</string>
+    <string name="title_trending_show">Trending TV show</string>
+    <string name="title_preferences">Preferences</string>
+
+    <string name="browse_title">Open TV</string>
+    <string name="related_movies">Related Movies</string>
+    <string name="watch_now">Watch Now</string>
+    <string name="var_service">%s service</string>
+    <string name="var_services">%s services</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+</resources>
